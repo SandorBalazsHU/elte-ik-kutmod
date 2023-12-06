@@ -1,0 +1,6 @@
+# Ignore everything except .ipynb files and readme.md in the root directory
+/*
+!.gitignore
+!*.ipynb
+!readme.md
+!scripts
